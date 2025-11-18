@@ -1,4 +1,6 @@
-![]{GitHub-Banner.png}
+<p align="center">
+  <img src="GitHub-Banner.png" alt="" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
 <h3 align="center">Front-End Developer</h3>
 
