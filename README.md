@@ -1,3 +1,4 @@
+![]{https://github.com/AbdurRahimMontu/abdurrahimmontu/blob/main/GitHub-Banner.png}
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
 <h3 align="center">Front-End Developer</h3>
 
