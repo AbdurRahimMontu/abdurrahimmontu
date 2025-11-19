@@ -1,8 +1,9 @@
 <p align="center">
   <img src="GitHub-Banner.png" alt="" width="100%" />
 </p>
-### Hi there 👋, <h3 align="center">   I am    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h3>
-#### <h3 align="center">Front-End Developer</h3>
+<h3 align="center">I am</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h3>
+<h3 align="center">Front-End Developer</h3>
 
 I'm **Abdur Rahim**, a passionate **Front-End Developer** with a growing focus on **Full Stack Development**.  
 I enjoy reading and writing articles, exploring new technologies, and continuously improving my craft.  
