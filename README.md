@@ -45,8 +45,3 @@ I am also a beginner-level designer when the project requires creative UI soluti
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&perline=7)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahimmontu&show_icons=true&locale=en&layout=compact" alt="abdurrahimmontu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahimmontu&show_icons=true&locale=en" alt="abdurrahimmontu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahimmontu&" alt="abdurrahimmontu" /></p>
