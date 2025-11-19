@@ -1,38 +1,37 @@
 <p align="center">
   <img src="GitHub-Banner.png" alt="" width="100%" />
 </p>
-<h3 align="center">I am</h3>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h2>
-<h3 align="center">Front-End Developer</h3>
+### Hi there 👋, <h1 align="center"> I am Abdur Rahim</h1>
+#### <h3 align="center">Front-End Developer</h3>
+![<h3 align="center">Front-End Developer</h3>](https://raw.githubusercontent.com/AbdurRahimMontu/abdurrahimmontu/refs/heads/main/GitHub-Banner.png)
 
-
+I'm **Abdur Rahim**, a passionate **Front-End Developer** with a growing focus on **Full Stack Development**.  
+I enjoy reading and writing articles, exploring new technologies, and continuously improving my craft.  
+I am also a beginner-level designer when the project requires creative UI solutions.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdurrahimmontu&style=flat-square&color=blue" alt="Profile Views" width="200">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=abdurrahimmontu&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahimmontu&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
+🔗 **Live Site:** https://freelance-market-ef1c5.web.app/
+🔗 **Live Site:** https://green-nest-09.netlify.app/
+🔗 **Live Site:** https://ornate-squirrel-59fbcb.netlify.app/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahimmontu&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahimmontu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahimmontu" alt="abdurrahimmontu" /></a> </p>
+-  I’m currently working on Front-End Development — building modern and responsive web applications. 
+-  I’m currently learning Next.js for full-stack React development. 
+-  I’m looking to collaborate on Open-source or team projects involving React, Next.js, UI/UX, or front-end innovation. 
+-  I’m looking for help with improving my skills, exploring better project ideas, and learning best development practices. 
+-  Ask me about Front-end development, React, UI components, and beginner-friendly development guidance. 
 
-<p align="left"> <a href="https://twitter.com/abdurrahimmontu" target="blank"><img src="https://img.shields.io/twitter/follow/abdurrahimmontu?logo=twitter&style=for-the-badge" alt="abdurrahimmontu" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Hi there! I'm Abdur Rahim. I'm a passionate Front-End Developer with a strong focus on Full Stack Development. I enjoy Articles. I am a beginner level Designer depending on what the project requires. I love exploring new tech stack.**
-
-- 📫 How to reach me **abdurrahim9977@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/abdurrahimmontu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdurrahimmontu" height="30" width="40" /></a>
-<a href="https://twitter.com/abdurrahimmontu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdurrahimmontu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdurrahimmontu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahimmontu" height="30" width="40" /></a>
-</p>
+<p align="left">   
+<a href="https://www.linkedin.com/in/abdurrahimmontu/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>       
+<a href="https://x.com/AbdurRahimMontu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on X"/></a>  
+<a href="https://dev.to/abdurrahimmontu" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow me on Dev.to"/></a>  
+<a href="abdurrahim9977@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+ </p>
 
 ---
 
@@ -44,8 +43,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&perline=7)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahimmontu&show_icons=true&locale=en&layout=compact" alt="abdurrahimmontu" /></p>
 
