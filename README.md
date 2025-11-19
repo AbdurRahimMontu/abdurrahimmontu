@@ -5,6 +5,10 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h3>
 <h3 align="center">Front-End Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurrahimmontu&style=flat-square&color=blue" alt="Profile Views" width="200">
+</p>
+
 <p align="center">I'm **Abdur Rahim**, a passionate **Front-End Developer** with a growing focus on **Full Stack Development**.  
 I enjoy reading and writing articles, exploring new technologies, and continuously improving my craft.  
 I am also a beginner-level designer when the project requires creative UI solutions.
@@ -29,8 +33,7 @@ I am also a beginner-level designer when the project requires creative UI soluti
 
 ---
 
-<p align="left">   
-<a href="https://www.linkedin.com/in/abdurrahimmontu/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>       
+<p align="center">        
 <a href="https://x.com/AbdurRahimMontu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on X"/></a>  
 <a href="https://dev.to/abdurrahimmontu" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow me on Dev.to"/></a>  
 <a href="abdurrahim9977@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
@@ -46,5 +49,6 @@ I am also a beginner-level designer when the project requires creative UI soluti
 
 ---
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&perline=7)
+<p align="center">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&perline=7)</p>
 
+---
