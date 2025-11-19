@@ -33,11 +33,12 @@ I am also a beginner-level designer when the project requires creative UI soluti
 
 ---
 
-<p align="center">        
+<p align="center">    
+  <a href="https://www.linkedin.com/in/abdurrahimmontu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"/></a>  
 <a href="https://x.com/AbdurRahimMontu" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on X"/></a>  
 <a href="https://dev.to/abdurrahimmontu" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Follow me on Dev.to"/></a>  
-<a href="abdurrahim9977@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
- </p>
+  
+
 
 ---
 
