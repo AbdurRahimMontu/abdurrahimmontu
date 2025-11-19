@@ -7,6 +7,7 @@
 I'm **Abdur Rahim**, a passionate **Front-End Developer** with a growing focus on **Full Stack Development**.  
 I enjoy reading and writing articles, exploring new technologies, and continuously improving my craft.  
 I am also a beginner-level designer when the project requires creative UI solutions.
+
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=abdurrahimmontu&show_icons=true&count_private=true&theme=tokyonight" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahimmontu&layout=compact&count_private=true&theme=tokyonight" />
