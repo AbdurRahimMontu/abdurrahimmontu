@@ -12,9 +12,9 @@ I am also a beginner-level designer when the project requires creative UI soluti
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahimmontu&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
-🔗 **Live Site:** https://freelance-market-ef1c5.web.app/
-🔗 **Live Site:** https://green-nest-09.netlify.app/
-🔗 **Live Site:** https://ornate-squirrel-59fbcb.netlify.app/
+  - 🔗 **Live Site:** https://freelance-market-ef1c5.web.app/
+  - 🔗 **Live Site:** https://green-nest-09.netlify.app/
+  - 🔗 **Live Site:** https://ornate-squirrel-59fbcb.netlify.app/
 
 
 -  I’m currently working on Front-End Development — building modern and responsive web applications. 
