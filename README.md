@@ -49,6 +49,6 @@ I am also a beginner-level designer when the project requires creative UI soluti
 
 ---
 
-<p align="center">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&perline=7)</p>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwindcss,react,reactrouter,firebase,express,mongodb,nodejs,git,github,figma,vite&titles=true)
 
 ---
