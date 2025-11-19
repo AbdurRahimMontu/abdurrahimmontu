@@ -1,15 +1,15 @@
 <p align="center">
   <img src="GitHub-Banner.png" alt="" width="100%" />
 </p>
-
-<h2 align="center">I am<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h2>
-
+<h3>I am</h3>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=800080&center=true&vCenter=true&width=600&lines=Abdur+Rahim" alt="Typing SVG"> </h2>
+<h3 align="center">Front-End Developer</h3>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdurrahimmontu&style=flat-square&color=blue" alt="Profile Views" width="200">
 </p>
-<h3 align="center">Front-End Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahimmontu&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahimmontu" /> </p>
 
